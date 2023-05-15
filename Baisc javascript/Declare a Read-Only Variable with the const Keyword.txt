@@ -1,0 +1,8 @@
+In JavaScript we cannot change the const variable 
+but we can change the let variable.  So keeping that
+in mind we can write this following code as an example:
+
+const FCC = "freeCodeCamp"; // Change this line
+let fact = "is cool!"; // Change this line
+fact = "is awesome!";
+console.log(FCC, fact); // Change this line
