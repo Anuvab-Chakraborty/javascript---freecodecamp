@@ -1,0 +1,8 @@
+In JavaScript, you can store a value in a variable with the assignment operator (=).
+ex:
+
+// Setup
+var a;
+
+// Only change code below this line
+a=7;
